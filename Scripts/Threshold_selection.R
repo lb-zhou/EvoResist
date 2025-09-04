@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 ## This script is used to:
-## Threshold selection.
+## Select the optimized mutational event threshold.
 
 library(data.table)
 library(dplyr)
